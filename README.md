@@ -1,4 +1,4 @@
-# Scott Quintana · iOS Portfolio
+## Scott Quintana · iOS Portfolio
 - Resume: [Download](http://www.scottquintana.com/resume.pdf)
 - Email: dev@scottquintana.com
 - Website: http://www.scottquintana.com
