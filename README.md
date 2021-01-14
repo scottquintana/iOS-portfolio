@@ -1,3 +1,9 @@
+# Scott Quintana · iOS Portfolio
+Resume: <a href="#">Download</a>
+Email: <a href="mailto:dev@scottquintana.com">dev@scottquintana.com</a>
+LinkedIn: <a href="https://www.linkedin.com/in/scottquintana/">https://www.linkedin.com/in/scottquintana/</a>
+Instagram: <a href="https://www.instagram.com/scottquintana/">@scottquintana</a>
+
 # Active Dispatch
 About Active Dispatch  
 <p align="center">
