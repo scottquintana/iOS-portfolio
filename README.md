@@ -1,8 +1,8 @@
 # Scott Quintana · iOS Portfolio
-· Resume: [Download](http://www.scottquintana.com/resume.pdf)
-· Email: dev@scottquintana.com
-· LinkedIn: [https://www.linkedin.com/in/scottquintana/](https://www.linkedin.com/in/scottquintana/)
-· Instagram: [@scottquintana](https://www.instagram.com/scottquintana/)
+- Resume: [Download](http://www.scottquintana.com/resume.pdf)
+- Email: dev@scottquintana.com
+- LinkedIn: [https://www.linkedin.com/in/scottquintana/](https://www.linkedin.com/in/scottquintana/)
+- Instagram: [@scottquintana](https://www.instagram.com/scottquintana/)
 
 # Active Dispatch
 About Active Dispatch  
