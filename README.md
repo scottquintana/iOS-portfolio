@@ -10,6 +10,7 @@ Active Dispatch connects you to the Metro Nashville Police Department via their 
 <p align="center">
 <img src="img/screenshots/activedispatch1.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/activedispatch2.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/activedispatch3.png" width="230">
 </p>
+<a href="https://github.com/scottquintana/NashvilleActiveDispatch">View GitHub Repo</a>
 [View GitHub repo](https://github.com/scottquintana/NashvilleActiveDispatch)
 
 # Cart Flow
