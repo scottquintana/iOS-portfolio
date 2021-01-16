@@ -7,10 +7,12 @@
 #
 # Active Dispatch
 Active Dispatch connects you to the Metro Nashville Police Department via their public API and displays all active police calls. The active calls are viewable in a list and via a map view. The individual incidents are assigned a color, depending on their category and threat level. When using the map view, clicking on the individual incidents offers a specific location and more information. Active Dispatch utilizes UIKit, however, the inspiration came through some recent SwiftUI projects (programmatic UI, gradients, reactive color changes, and the MVVM architecture).
+
+<a href="https://github.com/scottquintana/NashvilleActiveDispatch">View GitHub Repo</a>
 <p align="center">
 <img src="img/screenshots/activedispatch1.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/activedispatch2.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/activedispatch3.png" width="230">
 </p>
-<a href="https://github.com/scottquintana/NashvilleActiveDispatch">View GitHub Repo</a>
+
 [View GitHub repo](https://github.com/scottquintana/NashvilleActiveDispatch)
 
 # Cart Flow
