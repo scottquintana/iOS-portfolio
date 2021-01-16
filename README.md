@@ -6,25 +6,25 @@
 - Instagram: [@scottquintana](https://www.instagram.com/scottquintana/)
 #
 # Active Dispatch
-While looking for a free API to build an app around, I discovered one that was based right here in Nashville. Active Dispatch connects you to the Metro Nashville Police Department and shows all of their active calls. You can see where they are on a list, or by seeing a map overview of the city. You can also click on each individual incident to get a closer view of the location. This app uses UIKit, however, it was inspired by things I've been doing in SwiftUI recently (programmatic UI, gradients, reactive color changes, and the MVVM architecture).
+Active Dispatch connects you to the Metro Nashville Police Department via their public API and displays all active police calls. The active calls are viewable in a list and via a map view. The individual incidents are assigned a color, depending on their category and threat level. When using the map view, clicking on the individual incidents offers a specific location and more information. Active Dispatch utilizes UIKit, however, the inspiration came through some recent SwiftUI projects (programmatic UI, gradients, reactive color changes, and the MVVM architecture).
 <p align="center">
 <img src="img/screenshots/activedispatch1.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/activedispatch2.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/activedispatch3.png" width="230">
 </p>
 
 # Cart Flow
-There is certainly no shortage of shopping list apps in the world, however, in the times of COVID, I was trying to find a way to be more efficient while getting groceries. Cart Flow was built with idea that users could not only add custom items to a list, but also add the aisle the item is located in. This would allow them to sort their cart in a way where they could flow up and down each aisle in order, and spend less time trying to find everything. This app utilizes Core Data and Diffable Data Sources.
+Cart Flow was born out of a personal need for efficiency in grocery shopping in the time of COVID. This app was developed specifically in mind to add both custom items to your list and the assigned aisles each product can be found in. By listing items by aisle, you can spend less time trying to find each item and less time in the grocery store. This app utilizes Core Data and Diffable Data Sources.
 <p align="center">
 <img src="img/screenshots/cartflow1.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/cartflow2.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/cartflow3.png" width="230">
 </p>
 
 # WeatherApp
-WeatherApp was my excuse to use a combination of technologies that I really enjoy: SwiftUI and Combine. Having a UI that could quickly react to whatever data might be coming it's way was easy to implement with this pairing, and with Core Location being integrated too, there is no setup involed. You simply open the app, it detects where you are, and give you the corresponding weather. Once finished with the main app, I thought it would be fun to make a widget to go along with it, allowing you to see your hourly forecast whenever you look at your home screen.
+WeatherApp was my excuse to use a combination of technologies that I really enjoy: SwiftUI and Combine. Having a UI that could quickly react to whatever data might be coming it's way was easy to implement with this pairing, and with Core Location being integrated too, there is no setup involed. You simply open the app, it detects where you are, and gives you the corresponding weather. Once finished with the main app, I thought it would be fun to make a widget to go along with it, allowing you to see your hourly forecast whenever you look at your home screen.
 <p align="center">
 <img src="img/screenshots/weatherapp1.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/weatherapp2.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/weatherapp3.png" width="230">
 </p>
 
 # Top Headlines
-It can be overwhelming to see a bunch of headlines on a news site, and sometimes you can lose track of which ones you wanted to learn more about. Similar to an approach used in dating apps, I wanted the user to be able to see every headline one at a time, and then use a button or a swipe gesture to decide whether they wanted to add it to their reading list or not. Once all of the feed of headlines has been exhausted, you can switch to your list, read the articles, and check them off as you go.
+Top Headlines simplifies the news experience by showing you one story at a time, similarly to dating apps. Dependent on the users’ interest in the headline, they can use the buttons on the bottom of the UI or a swipe gesture to add to their reading list or pass the story. Once the feed of headlines has been exhausted, you can switch to your list, read each article, and check them off as you go. 
 <p align="center">
 <img src="img/screenshots/topheadlines1.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/topheadlines2.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/topheadlines3.png" width="230">
 </p>
