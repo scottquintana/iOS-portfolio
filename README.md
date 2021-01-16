@@ -18,12 +18,14 @@ Cart Flow was born out of a personal need for efficiency in grocery shopping in 
 <img src="img/screenshots/cartflow1.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/cartflow2.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/cartflow3.png" width="230">
 </p>
 [View GitHub Repo](https://github.com/scottquintana/CartFlow)
+
 # WeatherApp
 WeatherApp was my excuse to use a combination of technologies that I really enjoy: SwiftUI and Combine. Having a UI that could quickly react to whatever data might be coming it's way was easy to implement with this pairing, and with Core Location being integrated too, there is no setup involed. You simply open the app, it detects where you are, and gives you the corresponding weather. Once finished with the main app, I thought it would be fun to make a widget to go along with it, allowing you to see your hourly forecast whenever you look at your home screen.
 <p align="center">
 <img src="img/screenshots/weatherapp1.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/weatherapp2.png" width="230">&nbsp;&nbsp;&nbsp;<img src="img/screenshots/weatherapp3.png" width="230">
 </p>
 [View GitHub Repo](https://github.com/scottquintana/WeatherApp-SwiftUI)
+
 # Top Headlines
 Top Headlines simplifies the news experience by showing you one story at a time, similarly to dating apps. Dependent on the users’ interest in the headline, they can use the buttons on the bottom of the UI or a swipe gesture to add to their reading list or pass the story. Once the feed of headlines has been exhausted, you can switch to your list, read each article, and check them off as you go. 
 <p align="center">
